@@ -2,7 +2,7 @@
 
 A Todo flutter application using Hive database.
 
-## Preview
+## Screenshots
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
