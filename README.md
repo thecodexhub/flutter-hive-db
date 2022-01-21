@@ -1,6 +1,8 @@
 # Todo app with HiveDB
 
-A Todo flutter application using Hive database.
+A Todo flutter application that uses Hive database for local persistence of the todos.
+
+📖 Tutorial link is [here](https://www.instagram.com/p/CUSnAU7jH3p/?utm_source=ig_web_copy_link).
 
 ## Screenshots
 
